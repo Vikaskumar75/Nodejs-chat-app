@@ -50,5 +50,5 @@ It also contains client side code for the chat application.
 
 ## Links
 
-- [Chat App](https://damp-wave-74318.herokuapp.com/)
+- [Chat App](https://node-chat-vikas.herokuapp.com/)
 - [LinkedIn](https://www.linkedin.com/in/vikas-kumar-6564a7185/)
