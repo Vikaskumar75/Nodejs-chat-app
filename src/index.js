@@ -1,4 +1,3 @@
-require("dotenv").config({ path: `.env.${process.env.NODE_ENV}` });
 const express = require("express");
 const socketio = require("socket.io");
 const Filter = require("bad-words");
@@ -89,7 +88,7 @@ io.on("connection", (socket) => {
   });
 });
 
-const port = process.env.PORT;
+const port = process.env.PORT || 3000;
 server.listen(port, () => {
   console.log("app started listening on port: " + port);
 });
