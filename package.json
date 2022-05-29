@@ -2,11 +2,11 @@
   "name": "web-sockets",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "NODE_ENV=production node src/app.js",
-    "prod": "NODE_ENV=production nodemon src/app.js",
-    "dev": "NODE_ENV=development nodemon src/app.js"
+    "start": "NODE_ENV=production node src/index.js",
+    "prod": "NODE_ENV=production nodemon src/index.js",
+    "dev": "NODE_ENV=development nodemon src/index.js"
   },
   "keywords": [],
   "author": "",
