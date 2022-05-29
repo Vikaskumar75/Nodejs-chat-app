@@ -42,7 +42,7 @@ It also contains client side code for the chat application.
 - [bad-words](https://www.npmjs.com/package/bad-words)
 
 ## Installation
-1. Clone the repository `git clone `
+1. Clone the repository `git clone https://github.com/Vikaskumar75/Nodejs-chat-app.git`
 2. cd into the directory `cd Nodejs-chat-app`
 3. Install the dependencies `npm install`
 4. Run the server `npm run dev`
@@ -50,5 +50,5 @@ It also contains client side code for the chat application.
 
 ## Links
 
-- [Chat App](https://wshine.herokuapp.com/)
+- [Chat App](https://damp-wave-74318.herokuapp.com/)
 - [LinkedIn](https://www.linkedin.com/in/vikas-kumar-6564a7185/)
